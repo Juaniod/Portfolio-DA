@@ -23,9 +23,6 @@ Me apasiona transformar datos en información estratégica para la toma de decis
   *Modelos de regresión para mejorar procesos metalúrgicos.*  
   → [Repositorio](URL-del-proyecto)  
 
-- 🤖 **Estimación de edad a partir de imágenes faciales**  
-  *Red neuronal convolucional entrenada en TensorFlow.*  
-  → [Repositorio](URL-del-proyecto)  
 
 ---
 
