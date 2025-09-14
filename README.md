@@ -17,11 +17,11 @@ Me apasiona transformar datos en información estratégica para la toma de decis
 ## 📂 Proyectos Destacados  
 - 📊 **Predicción de cancelación de clientes en telecomunicaciones**  
   *Modelos de clasificación para identificar churn y estrategias de retención.*  
-  → [Repositorio]([URL-del-proyecto](https://github.com/Juaniod/Portfolio-DA/blob/main/proyecto_telecomunicaciones.ipynb))  
+  → [Repositorio](https://github.com/Juaniod/Portfolio-DA/blob/main/proyecto_telecomunicaciones.ipynb)
 
 - ⛏️ **Optimización de recuperación de oro en minería**  
   *Modelos de regresión para mejorar procesos metalúrgicos.*  
-  → [Repositorio]([URL-del-proyecto](https://github.com/Juaniod/Portfolio-DA/blob/main/proyecto_mineria.ipynb))  
+  → [Repositorio](https://github.com/Juaniod/Portfolio-DA/blob/main/proyecto_mineria.ipynb) 
 
 
 ---
